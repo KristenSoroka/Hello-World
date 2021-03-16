@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 ### My second update 3/16/2021
 
 This is my second update. Learning Github desktop.  Creating an index.html file. 
+
+I was origninally starting to learning git/github/vscode by using the command line terminal.  I decided to backtrack and learn how to use the github desktop interface to push/pull my work
